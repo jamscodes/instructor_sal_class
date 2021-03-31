@@ -1,0 +1,10 @@
+Introduction to forms:
+
+    Goal: Our goal is to introduce Django forms and get to the point where we can begin using them in our projects.
+
+    - What are Django forms?
+    - Why use Django forms?
+    - Unconnected and connected Django forms
+    - Niche field types (checkboxes and select)
+    - Looping through fields and beginning to style
+    
